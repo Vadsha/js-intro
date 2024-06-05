@@ -1,0 +1,18 @@
+Introduction to Javascript 
+Interpreted
+Dynamic
+
+Web Development , Mobile App Development , Desktop Applications
+Game Development , Internet of Things(IoT) , Machine Learning(TensorFlow.js)
+
+Browser environment
+V8 engine
+Node environment
+
+Web Development
+Html / Css manipulation (DOM)
+User Interactivity
+Animation
+Real Time Data Fetching
+
+Version -> 	ECMAScript 6 2015 (Es6)
